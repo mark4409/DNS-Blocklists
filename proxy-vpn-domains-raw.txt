@@ -124,7 +124,6 @@ new-proxy-sites.blogspot.in
 ninjabrowse.com
 ninjacloak.com
 ninjaweb.xyz
-nordvpn
 nordvpn.com
 notaproxy.co.uk
 ocaspro.com
