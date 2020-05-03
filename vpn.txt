@@ -78,6 +78,7 @@ safervpn.com
 sec-tunnel.com
 secure.proxpn.com
 setupvpn.com
+shadowsocks.org
 smartdnsproxy.com
 speedify.com
 spidervpn.org
