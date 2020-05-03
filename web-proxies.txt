@@ -105,6 +105,12 @@ hyperbyte.net
 idolproxy.com
 ignitesoft.com
 interncloud.info
+invidio.us
+invidious.13ad.de
+invidious.fdn.fr
+invidious.ggc-project.de
+invidious.snopyta.org
+invidious.toot.koeln
 ispunblock.com
 justproxy.co.uk
 kproxy.com
@@ -125,6 +131,7 @@ mycelium.site
 my-proxy.com
 myproxy.info
 myunblocksites.com
+nayoutube.com
 newipnow.com
 ninjabrowse.com
 ninjacloak.com
@@ -288,6 +295,7 @@ vectroproxy.com
 videounblock.com
 videounblocker.net
 vidproxy.com
+viewpure.com
 viewyoutube.net
 vkrosse2.ru
 vload.net
@@ -307,12 +315,15 @@ wossow.com
 xitenow.com
 xitesite.com
 yellowproxy.net
+yewtu.be
 yourcheat.com
 yourinternetproxy.info
 youtubebyclick.com
 youtubefreeproxy.net
 youtubeunblocked.live
 youtubez.com
+ystream.tv
+yt.maisputain.ovh
 yutube.herokuapp.com
 yxorproxy.com
 zacebookpk.com
