@@ -127,6 +127,7 @@ metproxy.com
 mike1023.com
 miniprox.com
 miniprox.info
+mrunblock.xyz
 mycelium.site
 my-proxy.com
 myproxy.info
@@ -164,6 +165,7 @@ proxy-2015.info
 proxy4freedom.com
 proxy7.club
 proxy-anywhere.com
+proxybit.space
 proxybrowse.info
 proxybrowsing.com
 proxycloud.net
