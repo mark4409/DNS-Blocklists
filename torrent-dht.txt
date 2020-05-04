@@ -1,0 +1,5 @@
+router.utorrent.com
+router.bittorrent.com
+dht.transmissionbt.com
+dht.aelitis.com
+dht.vuze.com
