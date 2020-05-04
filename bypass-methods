@@ -86,6 +86,11 @@ security.cloudflare-dns.com
 security-filter-dns.cleanbrowsing.org
 uw-dns.rubyfish.cn
 
+# Encrypted DNS software (DNSCrypt)
+dnscrypt.info
+dnscrypt.org
+simplednscrypt.org
+
 # Web Proxies
 # Not all of these have been manually checked but all have appeared
 # in free web proxy listings over the last year or so. It's possible
@@ -221,6 +226,7 @@ metproxy.com
 mike1023.com
 miniprox.com
 miniprox.info
+mrunblock.xyz
 mycelium.site
 my-proxy.com
 myproxy.info
@@ -258,6 +264,7 @@ proxy-2015.info
 proxy4freedom.com
 proxy7.club
 proxy-anywhere.com
+proxybit.space
 proxybrowse.info
 proxybrowsing.com
 proxycloud.net
@@ -555,6 +562,8 @@ vyprvpn.com
 whoer.net
 windscribe.com
 wlvpn.com
+x-vpn.io
+xvpn.io
 zoogvpn.com
 zpn.im
 
@@ -580,7 +589,11 @@ vpnservice.com
 vpnuniversity.com
 
 # Web Browsers with built in VPN or Proxy
+bravebrowser24h.com
+bravebrowsers.com
 brave.com
+braveinternetbrowser.com
+browsingsupport.com
 epicbrowser.com
 opera.com
 tenta.com
