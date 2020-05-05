@@ -1,3 +1,7 @@
+freenetproject.org
+geti2p.net
+ipfs.io
 onion.ly
 onion.pet
 torproject.org
+zeronet.io
