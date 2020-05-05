@@ -40,6 +40,7 @@ freevpnsoftware.net
 freevpn.zone
 get-express-vpn.com
 getfoxyproxy.org
+getoutline.org
 hidebuzz.us
 hideipvpn.com
 hidemyass.com
@@ -50,6 +51,7 @@ hotbot.com
 hotspotshield.com
 hoxx.com
 idcloak.com
+infradead.org
 ipvanish.com
 ivacy.com
 ivpn.net
@@ -57,11 +59,13 @@ le-vpn.com
 limevpn.com
 mullvad.net
 myprivateproxy.net
+mysterium.network
 nordvpn.com
 nvpn.net
 openvpn.net
 opera-proxy.net
 overplay.net
+peervpn.net
 privateinternetaccess.com
 privatevpn.com
 protonstatus.com
@@ -85,6 +89,7 @@ spidervpn.org
 strongvpn.com
 surfeasy.com
 surfshark.com
+tinc-vpn.org
 torguard.net
 travelvpn.info
 travelvpn.net
@@ -104,8 +109,10 @@ vpnunlimitedapp.com
 vyprvpn.com
 whoer.net
 windscribe.com
+wireguard.com
 wlvpn.com
 x-vpn.io
 xvpn.io
+zerotier.com
 zoogvpn.com
 zpn.im

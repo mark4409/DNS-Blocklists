@@ -1,0 +1,3 @@
+dnscrypt.info
+dnscrypt.org
+simplednscrypt.org
