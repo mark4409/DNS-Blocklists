@@ -1,5 +1,6 @@
 bitcomet.com
 bitlord.com
+bitport.io
 btorrent.xyz
 butterproject.org
 deluge-torrent.org
@@ -7,6 +8,7 @@ filestream.me
 frostwire.com
 getpopcorntime.is
 instant.io
+jstorrent.com
 magnetoo.io
 picotorrent.org
 popcorntime.app
@@ -16,10 +18,14 @@ popcorn-time.en.uptodown.com
 popcorntime.sh
 qbittorrent.org
 rakshasa.github.io
+seedr.cc
+stremio.com
 tixati.com
 tornado-torrent.gitlab.io
+torrentsafe.com
 transmissionbt.com
 utorrent.com
 vuze.com
+webtor.io
 webtorrent.io
 zbigz.com
