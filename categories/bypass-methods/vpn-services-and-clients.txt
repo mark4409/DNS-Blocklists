@@ -66,6 +66,7 @@ openvpn.net
 opera-proxy.net
 overplay.net
 peervpn.net
+phantompeer.com
 privateinternetaccess.com
 privatevpn.com
 protonstatus.com
