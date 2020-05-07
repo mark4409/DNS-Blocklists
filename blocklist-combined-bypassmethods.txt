@@ -47,6 +47,8 @@ browser.feenex.ru
 btguard.com
 buffered.com
 bumblebee.site
+bypassed.life
+bypassed.zone
 bypasser.us
 bypass.osiland.com
 cactusvpn.com
@@ -211,6 +213,7 @@ myprivateproxy.net
 my-proxy.com
 myproxy.info
 mysterium.network
+myunblock.com
 myunblocksites.com
 nayoutube.com
 newcastlenerd.com.au
@@ -233,6 +236,9 @@ opera-proxy.net
 orangeproxy.net
 overplay.net
 oxus.tj
+p4y.info
+p4y.space
+p4y.xyz
 pandashield.com
 peervpn.net
 p.geopainting.com
@@ -250,6 +256,7 @@ protonvpn.ch
 protonvpn.com
 pro-unblock.com
 prox2.info
+prox4you.icu
 proxay.co.uk
 proxfree.com
 proxify.com
@@ -416,6 +423,7 @@ unblockproxy.me
 unblocksite.org
 unblock-sites.com
 unblocksites.xyz
+unblockthe.net
 unblock-us.com
 unblock-video.com
 unblockvideos.com
