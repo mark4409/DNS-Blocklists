@@ -178,7 +178,6 @@ tr.bangumi.moe
 trun.tom.ru
 uatracker.net
 u.wwwww.wtf
-u.wwwww.wtf:1
 valakas.rollo.dnsabr.com
 vps02.net.orel.ru
 www.all4nothin.net
