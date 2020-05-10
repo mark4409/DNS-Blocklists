@@ -564,6 +564,7 @@ ultimateproxy.net
 ultrafun.net
 ultravpn.com
 unbl0ck.pro
+unblckd.buzz
 unblock123.com
 unblockaccess.com
 unblockall.org
@@ -574,10 +575,12 @@ unblockblocked.net
 unblockbook.biz
 unblocked.bar
 unblocked.casa
+unblocked.cloud
 unblocked.is
 unblocked.lc
 unblocked.lol
 unblocked.me
+unblocked-pw.github.io
 unblocked.tw
 unblocked.win
 unblocker.cc
@@ -585,6 +588,7 @@ unblocker.us
 unblockfreeproxy.com
 unblock-internet.ws
 unblockit.ca
+unblockit.me
 unblockit.one
 unblockme.comuf.com
 unblockmyweb.com
