@@ -276,6 +276,7 @@ popupblocker.chromecrxstore.com
 poxy.us.to
 pr0xii.net
 premium-proxy.info
+prikryl.info
 prointern.info
 proksiak.pl
 pro-unblock.com
@@ -552,7 +553,6 @@ wonderland.ws
 workhost.eu
 worryfreecomputers.com
 wossow.com
-www0.prikryl.info
 xitenow.com
 xitesite.com
 xtcsoul.net

@@ -243,6 +243,7 @@ extratorrent.si
 extratorrent.unbl0ck.online
 extremlymtorrents.me
 extremlymtorrents.ws
+eztv1.unblocked.to
 eztv.ag
 eztv.bypassed.life
 eztv.bypassed.zone
@@ -400,6 +401,7 @@ kinokong.net
 kinotorrent.me
 kinotracker.org
 kisssub.org
+knaben.cc
 knaben.xyz
 konchun.com
 koshara777.net
@@ -535,9 +537,11 @@ piratebaylive.online
 piratebay-mirrors.com
 piratebay.one
 piratebay.org
+piratebayproxy.cx
 piratebayproxy.info
 piratebay-proxylist.com
 piratebay-proxylist.net
+piratebay-proxy.net
 piratebay-proxy.org
 piratebayproxy.org
 piratebay-proxy.to
@@ -556,16 +560,19 @@ piratebayy.com
 pirateiro.com
 piratenow.xyz
 piratepirate.net
+piratepiratepirate.net
 pirateproxy.fi
 pirateproxy.id
 pirateproxy.lat
 pirateproxy.live
 pirateproxylove.uk
 pirateproxy.name
+pirateproxy.vet
 piratepublic.com
 piratesbaycc.com
 piratesbay.one
 piratetpb.club
+pirateunblocker.net
 piratex.us
 pleasuredome.org.uk
 polishsource.cz
@@ -590,7 +597,9 @@ proxybay.bz
 proxybay.github.io
 proxybay.onl
 proxybay.page
+proxybay.pro
 proxybayproxies.net
+proxybay.tech
 proxybay.xyz
 proxylisthere.com
 proxylove.co.uk
@@ -718,9 +727,11 @@ theaudiobookbay.com
 theebooksbay.com
 the-eye.eu
 thegeeks.click
+thehiddenbay.com
 thekat.info
 thepiratebay0.org
 thepiratebay10.org
+thepiratebay11.org
 thepiratebay1.com
 thepiratebay1.live
 thepiratebay1.top
@@ -735,6 +746,7 @@ thepiratebay.cx
 thepiratebay.d4.re
 thepiratebay.fail
 thepiratebay.gd
+thepiratebay.guru
 thepiratebay.icu
 thepiratebay.lc
 thepiratebaylk.blogspot.com
@@ -923,10 +935,12 @@ tpb.filepit.to
 tpbgreen.link
 tpblife.in
 tpbmirror.be
+tpb.party
 tpbpiratebaai.art
 tpbpiratenbucht.eu
 tpbproxy.online
 tpb.sadzawka.tk
+tpb.ukpass.co
 tpb.uk-unblock.xyz
 tpb.unblocked.casa
 trace.corrupt-net.org
@@ -948,6 +962,7 @@ twitth.com
 twzoa.info
 udush.com
 uhdbits.org
+ukpiratebayproxy.com
 unblocked.is
 unblocked.lol
 unblockpirate.uk
@@ -973,7 +988,6 @@ wild-bytes.com
 worldofp2p.net
 world-porno.net
 worldwidetorrents.me
-www4.knaben.cc
 x1337x.eu
 x1337x.se
 x1337x.ws
