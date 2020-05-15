@@ -23,6 +23,7 @@ ipv6.tracker.harry.lu
 ipv6.tracker.zerobytes.xyz
 mgtracker.org
 ns349743.ip-91-121-106.eu
+omg.wtftrackr.xyz
 open.acgnxtracker.com
 open.acgtracker.com
 open.demonii.com
@@ -114,6 +115,7 @@ tracker.moeking.me
 tracker.msm8916.com
 tracker.nanoha.org
 tracker.nitrix.me
+tracker.noobsubs.net
 tracker.nyap2p.com
 tracker.openbittorrent.com
 tracker.open-internet.nl

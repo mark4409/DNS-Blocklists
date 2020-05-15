@@ -597,6 +597,7 @@ nhentai.net
 nipponsei.minglong.org
 nnm-club.me
 nnmclub.to
+noobftp1.noobsubs.net
 nostalgic.is
 novaset.net
 nowfilms.ru
@@ -621,6 +622,7 @@ opentrackers.org
 openwebtorrent.com
 orpheus.network
 otorrent2.com
+otorrent4.com
 otorrent.info
 otorrento.com
 otorrents.com
@@ -651,6 +653,7 @@ piratebay.live
 piratebaylive.com
 piratebaylive.online
 piratebay-mirrors.com
+pirate-bay.net
 piratebay.one
 piratebay.org
 piratebayproxy.cx
@@ -797,6 +800,7 @@ rutracker.ru
 savebt.com
 schooltorrent.com
 scrapetorrent.com
+scr.cr
 scsvbbs3.top
 seedboxs.me
 seedchan.net
@@ -1144,6 +1148,7 @@ tt-torrent.com
 ttxunlei.com
 tudoubt.com
 tvbfsy.com
+tvbox.ag
 tvchaosuk.com
 tvunderground.org.ru
 twist.moe
