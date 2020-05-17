@@ -9,6 +9,7 @@ anonymizer.com
 anonymousvpn.org
 anonymster.com
 astrill.com
+azirevpn.com
 banana-vpn.com
 beevpn.com
 betternet.co
@@ -70,7 +71,6 @@ hidebuzz.us
 hideipvpn.com
 hide.me
 hidemyass.com
-hidemyass.co.uk
 hidester.com
 hola.org
 hotbot.com
@@ -78,7 +78,6 @@ hotspotshield.com
 hoxx.com
 ibvpn.com
 idcloak.com
-infradead.org
 internetz.me
 ipredator.se
 ipvanish.com
@@ -98,7 +97,6 @@ nordvpn.com
 nvpn.net
 okayfreedom.com
 openvpn.net
-opera-proxy.net
 order.surfshark.com
 overplay.net
 peervpn.net
@@ -117,7 +115,6 @@ proxy.sh
 purevpn.com
 pushvpn.com
 radmin-vpn.com
-radmin-vpn.org
 rowdyhost.com
 roxivpn.com
 rusvpn.com
@@ -148,7 +145,6 @@ switchvpn.net
 tinc-vpn.org
 torguard.net
 torrentprivacy.com
-travelvpn.info
 travelvpn.net
 trickbyte.com
 trust.zone

@@ -15,7 +15,6 @@
 123movies.church
 123movies.coach
 123movies.com
-123movies.com.ge
 123movies.domains
 123movies.exposed
 123movies.fan
@@ -29,11 +28,9 @@
 123movies.hospital
 123movieshub.tech
 123movieshubz.com
-123movies.is
 123movies.la
 123movies.link
 123movies.mom
-123-movies.net
 123movies.net
 123movies.online
 123movies.pics
@@ -59,7 +56,6 @@
 1337x.to
 1movies.is
 1watch-free.me
-300mbdownload.club
 3movierulz.sc
 4anime.to
 5movies.live
@@ -75,7 +71,6 @@ adit-hd.com
 afdah.info
 ainiesta.com
 allthebestfights.com
-alluc.uno
 allwrestling.live
 anime8.ru
 animebam.se
@@ -170,12 +165,10 @@ eprojectfreetv.us
 europix.biz
 europixhd.io
 ev01.net
-ewasion.github.io
 f2movies.to
 ffilms.club
 filechef.com
 film4k.to
-filmitube.xyz
 filmlicious.net
 filmsofts.com
 filmxy.nl
@@ -194,7 +187,6 @@ fmovies.top
 fmoviestv.app
 fmoviestv.site
 fmovies.wtf
-fomvies.baby
 footybite.com
 forja.tn
 forum.dirtywarez.com
@@ -208,6 +200,7 @@ fullmoviehd4k.com
 fullmoviesonlie.com
 fullmuv.blogspot.com
 gdrivedl.xyz
+gmovies.xyz
 go123movies.watch
 goflix.se
 gogoanime.in
@@ -223,7 +216,7 @@ gomovies.uno
 goojara.ch
 gounlimited.me
 gounlimited.to
-gusatv.to
+gustatv.love
 gustatv.to
 hd4fun.com
 hdbest.net
@@ -240,9 +233,9 @@ home.nflbite.com
 hostcluster.cc
 hydrax.is
 i123movies.club
+icefilms.ch
 icefilms-info.com
 ihavenotv.com
-imdbgo.com
 imkmedia.com
 imovietube.com
 iplive.club
@@ -306,7 +299,6 @@ movieheaven.org
 moviejesus.com
 moviekids.tv
 movieminions.cc
-movienight.ws
 movieorca.com
 movierot.com
 movies123.website
@@ -357,6 +349,7 @@ p4pirate.xyz
 pelisplus.co
 pitkini.org
 play.1222.tech
+playwire.ga
 popcornflix.com
 popcornflix.site
 popcorn-time.ch
@@ -377,11 +370,8 @@ putlocker5movies.site
 putlocker9.cc
 putlocker9.ru
 putlocker.actor
-putlocker.ae
-putlocker.ch
 putlocker.com
 putlocker.digital
-putlocker.dog
 putlockerfilms.com
 putlocker-free.club
 putlockerfree.net
@@ -394,7 +384,6 @@ putlocker.how
 putlocker.kz
 putlocker.me
 putlocker.menu
-putlocker-m.net
 putlocker.ninja
 putlocker.onl
 putlocker.pics
@@ -405,7 +394,6 @@ putlockers.am
 putlockers.bar
 putlockers.bz
 putlockers.co
-putlockers.com
 putlockers.cr
 putlockers.cz
 putlockers.email
@@ -527,6 +515,7 @@ uwatchfree.icu
 vexmovies.org
 vf-stream.org
 vidcloud9.com
+vidclouds.icu
 vidcloud.us
 videospider.in
 vidlink.org
@@ -562,6 +551,7 @@ worldcupfootball.me
 x265movies.co
 xmovie8.pro
 xmovies8.is
+xoomtv.online
 xoomtv.xyz
 yesmovies.ag
 yesmovies.fun

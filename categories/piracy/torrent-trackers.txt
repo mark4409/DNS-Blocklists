@@ -121,6 +121,7 @@ tracker.openbittorrent.com
 tracker.open-internet.nl
 tracker.opentrackr.org
 tracker.parrotlinux.org
+tracker.parrotsec.org
 tracker.piratepublic.com
 tracker.publicbt.com
 tracker.sbsub.com
