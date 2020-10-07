@@ -72,6 +72,7 @@ hideipvpn.com
 hide.me
 hidemyass.com
 hidester.com
+highspeedvpn.net
 hola.org
 hotbot.com
 hotspotshield.com
@@ -86,6 +87,7 @@ ivacy.com
 ivpn.net
 keepsolid.com
 kepard.com
+leafyvpn.net
 le-vpn.com
 libertyvpn.net
 limevpn.com
@@ -93,7 +95,6 @@ microvpn.com
 mullvad.net
 myprivateproxy.net
 mysterium.network
-nordvpn.com
 nvpn.net
 okayfreedom.com
 openvpn.net
@@ -109,9 +110,6 @@ privatewifi.com
 protonstatus.com
 protonvpn.ch
 protonvpn.com
-proxpn.com
-proxy.lol
-proxy.sh
 purevpn.com
 pushvpn.com
 radmin-vpn.com
@@ -160,6 +158,7 @@ vpn4all.com
 vpn4games.com
 vpn.ac
 vpnaccounts.com
+vpnace.com
 vpnarea.com
 vpn.asia
 vpnbaron.com
